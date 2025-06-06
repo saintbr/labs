@@ -1,0 +1,10 @@
+dotnet/bululu/bin/
+dotnet/bululu/obj/
+python/test_env/bin/
+python/test_env/lib/
+dotnet/loris/obj/
+dotnet/obj/
+python/loris/bin/
+*.py
+python/loris/lib/
+python/loris/lib64
