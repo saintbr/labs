@@ -1,0 +1,7 @@
+{
+  "name": "loris-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
