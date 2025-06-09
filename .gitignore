@@ -134,3 +134,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+*.db
+loris/dotnet/.vs/
+loris/dotnet/bin/
+loris/dotnet/obj/
+loris/python/loris/bin/
+loris/python/loris/lib64
+loris/python/loris/lib/
+loris/rust/target/
+loris/typescript/loris/.next/
+loris/zig/.zig-cache/
+loris/zig/.vscode/
