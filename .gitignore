@@ -9,3 +9,5 @@ loris/rust/target/
 loris/typescript/loris/.next/
 loris/zig/.zig-cache/
 loris/zig/.vscode/
+loris/typescript/loris/node_modules/
+loris/typescript/loris/dist/
